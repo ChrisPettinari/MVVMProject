@@ -1,0 +1,12 @@
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\bin\Debug\netstandard2.0\MVVMProject.deps.json
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\bin\Debug\netstandard2.0\MVVMProject.dll
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\bin\Debug\netstandard2.0\MVVMProject.pdb
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MVVMProject.csprojAssemblyReference.cache
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MVVMProject.csproj.CoreCompileInputs.cache
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MVVMProject.AssemblyInfoInputs.cache
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MVVMProject.AssemblyInfo.cs
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MVVMProject.dll
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject\obj\Debug\netstandard2.0\MVVMProject.pdb

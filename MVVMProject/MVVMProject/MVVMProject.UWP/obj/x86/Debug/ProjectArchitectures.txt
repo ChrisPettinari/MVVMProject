@@ -1,0 +1,1 @@
+C:\Users\cpett\source\repos\MVVMProject\MVVMProject\MVVMProject.UWP\MVVMProject.UWP.csproj;x86
